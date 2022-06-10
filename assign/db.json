@@ -1,0 +1,13 @@
+{
+  "details": [
+    {
+      "name": "sri",
+      "country": "india",
+      "email": "ss@gmail.com",
+      "persons": "2",
+      "dollors": "140",
+      "status": false,
+      "id": 1
+    }
+  ]
+}

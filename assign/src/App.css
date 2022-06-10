@@ -1,0 +1,26 @@
+#main {
+  background-color: rgba(255,238,233,255);
+  /* border: 1px solid red; */
+}
+
+#img > img {
+  width: 100%;
+}
+#img form {
+  background-color: white;
+  width: 100%;
+  margin-top: -5%;
+  padding: 5% 0%;
+}
+#img input{
+margin: auto;
+margin-left: 5%;
+}
+
+#img button{
+  background-color: black;
+  color: white;
+}
+h1{
+  margin: auto;
+}
